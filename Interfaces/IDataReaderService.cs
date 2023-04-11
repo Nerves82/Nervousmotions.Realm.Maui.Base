@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace NervousMotions.Realm.Maui.Base.Interfaces;
 
 public interface IDataReaderService
